@@ -2,9 +2,9 @@
 
 Mit csinál a main.js fuggvenyem metódusa? 
 Készíts táblázatot Excelben  a változók alakulásának követésére! 
- | szam | x | y |
- | ---- | - | - |
- |      |   |   |
+ | a | b | eredmeny |
+ | - | - | -------- |
+ |   |   |          |
 
 Debuggold a függvényt futása közben, és ellenőrizd hogy alakulnak a változóid!
 
@@ -16,6 +16,6 @@ Készíts egy Word dokumentumot, melyben megfogalmazod a pontos specifikációt,
 
 Teszteljétek az ekvivalencia osztályok különböző bemeneteire!
 
-| Tesztesetek | Bemenet | Kimenet |  Elvárt kimenet |
-| ----------- | ------- | ------- | --------------- |
-|             |         |         |                 |
+| Tesztesetek | Bemenet a | Bemenet b | Kimenet |  Elvárt kimenet |
+| ----------- | --------- | --------- | ------- | --------------- |
+|             |           |           |         |                 |
